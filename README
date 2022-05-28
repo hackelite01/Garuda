@@ -58,13 +58,13 @@ This is A Python & Bash Programming Based Termux-Tool Created By hackelite01. Th
 	       ______________
 
 [+] For Install This Tool, Put The Following Commands Step by Step in Your Termux:
-```bash
+
 $ apt upgrade -y
 $ apt update -y
 $ pkg install git 
 $ pkg install python -y
 $ git clone https://github.com/hackelite01/Garuda
-```
+
 
 
 [+] For Set This Tool, Put The Following Commands in Your Termux:
